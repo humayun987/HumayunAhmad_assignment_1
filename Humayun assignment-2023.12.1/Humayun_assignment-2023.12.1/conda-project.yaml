@@ -1,0 +1,11 @@
+name: Humayun assignment
+maintainers:
+- d248fcfc-4167-418c-a64d-138bf107bb0a
+platforms:
+- linux-64
+environments:
+  default:
+  - environment.yaml
+commands:
+  serve:
+    cmd: panel serve Humayun_assignment_1.ipynb
